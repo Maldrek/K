@@ -288,7 +288,7 @@ div.menu .contact {
     }
 }
 
-@media all and (max-width: 820px) {
+@media all and (max-width: 825px) {
     div#container1 .first {
         background-size: contain;
         background-position: unset;
