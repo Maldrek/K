@@ -28,7 +28,7 @@ div#container1 {
     height: 100%;
     width: 100%;
     border: 1px solid #fff;
-    background-color: #fff;
+    background-color: #000;
     clip-path: polygon(0 0, 50.1%  0, 50.1% 50.1%, 0 100%);
     transition: 1s;
 }
@@ -59,7 +59,7 @@ div#container2 {
     height: 100%;
     width: 100%;
     border: 1px solid #fff;
-    background-color: #fff;
+    background-color: #000;
     clip-path: polygon(50% 0, 100% 0, 100% 100%, 50% 50%);
     transition: 1s;
 }
@@ -91,7 +91,7 @@ div#container3 {
     height: 100%;
     width: 100%;
     border: 1px solid white;
-    background-color: #fff;
+    background-color: #000;
     clip-path: polygon(50% 50%, 50% 50%, 100% 100%, 0 100%);
     transition: 1.5s;
 }
@@ -130,8 +130,8 @@ div.logo {
 div.logo h1 {
     height: 50px;
     width: 50px;
-    background-color: rgba(0, 0, 0, 0.8);
-    border: 1px solid rgb(48, 5, 15);
+    background-color: rgb(48, 5, 15);
+    border: 1px solid #fff;
     margin: 0;
     font-size: 2.5em;
     color: #fff;
